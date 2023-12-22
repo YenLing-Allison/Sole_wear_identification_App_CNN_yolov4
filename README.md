@@ -25,10 +25,11 @@ Heel wear | high arch foot or O-shaped legs | Lumbar disc herniation compresses 
 Excessive wear | Wear range is too large | Center of gravity imbalance, pelvic tilt 
 Insufficient wear | - | Cannot recognition   
 
-Resource: https://www.totalfootcarenrv.com/footware.html
-https://health.osu.edu/health/skin-and-body/what-are-the-bottoms-of-your-shoes-telling-you
-https://health.businessweekly.com.tw/article/ARTL000032242
-![7 categories](https://github.com/YenLing-Allison/Sole_wear_identification_App_CNN_yolov4/assets/144725779/409d0458-936b-4250-a749-5d372c59834a)
+Resource: https://www.totalfootcarenrv.com/footware.html  
+https://health.osu.edu/health/skin-and-body/what-are-the-bottoms-of-your-shoes-telling-you  
+https://health.businessweekly.com.tw/article/ARTL000032242  
+![7 categories](https://github.com/YenLing-Allison/Sole_wear_identification_App_CNN_yolov4/assets/144725779/90fb9529-033b-4450-82cc-31c92a75e90f)
+
 
 # Business value and future direction
 ![Business value](https://github.com/YenLing-Allison/Sole_wear_identification_App_CNN_yolov4/assets/144725779/d2c68102-6243-4839-9a1a-366d698c9dc8)
