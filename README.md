@@ -1,7 +1,8 @@
 # Sole_wear_identification_App_CNN_yolov4
 Yolov4 is an object detection system in real-time completely based on CNN, aiming to use image recognition of sole wear to help people solve their unknowing health problem.  
 Repository: https://github.com/YenLing-Allison/Sole_wear_identification_App_CNN_yolov4  
-**App link: https://apps.apple.com/tw/app/%E8%85%B3%E4%B8%8B%E5%8A%9F%E5%A4%AB/id1542556548**
+**App (Apple store): https://apps.apple.com/tw/app/%E8%85%B3%E4%B8%8B%E5%8A%9F%E5%A4%AB/id1542556548**
+**App (Google play): https://play.google.com/store/apps/details?id=com.bestmotion.digi&pli=1**
 
 # SCKQ
 **Situation**: Shoes are a necessity for us every day, and the traces of wear on the soles over time have become a key health indicator  
@@ -36,4 +37,11 @@ https://health.businessweekly.com.tw/article/ARTL000032242
 
 # App Demo
 ![App Demo](https://github.com/YenLing-Allison/Sole_wear_identification_App_CNN_yolov4/assets/144725779/6bc98a4a-8a28-4539-a0d7-34cdc4a33ac8)
+
+# Project Video
+https://youtu.be/sMpvbbN8CKg?si=tuh_uyMJehHlbRk6
+
+# Handout 
+![Handout](https://github.com/YenLing-Allison/Sole_wear_identification_App_CNN_yolov4/assets/144725779/46ad79a2-0593-4428-84a7-edf30d7601a8)
+
 
